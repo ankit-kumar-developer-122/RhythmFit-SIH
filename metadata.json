@@ -1,0 +1,7 @@
+{
+  "name": "RhythmFit",
+  "description": "Fitness that adapts to your day, not the other way around. Local-first adaptive fitness with soft consistency, energy tracking, timetable nudges, and Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
