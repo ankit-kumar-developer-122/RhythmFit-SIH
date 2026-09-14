@@ -12,6 +12,8 @@ Team - Bharat Innovates
 5. Remove this line from the app's `build.gradle.kts` file: `signingConfig = signingConfigs.getByName("debugConfig")`
 6. Run the app on an emulator or physical device
 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 RhythmFit — "Fitness that adapts to your day, not the other way around."
 
 Feature breakdown
